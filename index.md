@@ -8,9 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- heading: ''
-  description: ''
-  icon: ''
+- heading: Example
+  description: Here is an example
+  icon: "/uploads/2018/02/17/bridge.jpg"
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
