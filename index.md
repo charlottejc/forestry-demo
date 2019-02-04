@@ -10,7 +10,7 @@ partners:
 services:
 - heading: Example
   description: Here is an example
-  icon: "/uploads/2018/02/17/bridge.jpg"
+  icon: "/uploads/2017/11/13/stem.png"
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
