@@ -8,6 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: Another Example
+  description: ''
+  icon: ''
 - heading: Example
   description: Here is an example
   icon: "/uploads/2017/11/13/stem.png"
